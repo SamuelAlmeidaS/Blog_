@@ -10,6 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!--ESTILO DO PROJETO-->
     <link rel="stylesheet" href="<?=$BASE_URL?>/css/style.css">
+    <link rel="stylesheet" href="<?=$BASE_URL?>/css/media.css">
     <!--GOOGLE FONTS-->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
